@@ -1,4 +1,4 @@
-# food_app
+# Ticket_App
 
 A new Flutter project.
 
